@@ -5,7 +5,7 @@ This is a mandatory group project  of the courses “FS19-6,781,1.00 Skills: Pro
 The goal is …blabla...regression analysis
 
 
-## Repository
+### Repository
 
 There are five files distributed within this repository. "README.md" is used for a project description as well as insutrctions. "Regression Analysis - Group Project Python.ipynb" and "Regression Analysis - Group Project Python.py" contain code.
 
