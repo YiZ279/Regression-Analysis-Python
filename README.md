@@ -27,7 +27,7 @@ The file "Prediction Tool Output - Screenshots.docx" shows the output of the pre
 To do our analysis we use these programs: 
 * Python 3.7.3
 * Anaconda 3
-* Jupiter
+* Jupyter Notebook
 
 To run our code you will need these packages and datasets: 
 * Packages: numpy, pandas, matplotlib.pyplot, pylab, sklearn, statsmodels.api, tkinter 
