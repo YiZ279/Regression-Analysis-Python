@@ -35,9 +35,3 @@ To run our code you will need these packages and datasets:
 
 ## SetUp 
 To run the code you have to save the kaggle dataset as CSV on your computer. 
-
-## License
-?
-
-## Contribution / Acknowledgment 
-?
