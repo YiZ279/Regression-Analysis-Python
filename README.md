@@ -5,6 +5,7 @@ A regression analysis of the different factors influencing performance of studen
 
 ## Table of contents
 * [Introduction](#Introduction)
+* [General-Content](#General-Content)
 * [Repository](#Repository)
 * [Installations](#Installations)
 * [SetUp](#SetUp)
@@ -12,7 +13,7 @@ A regression analysis of the different factors influencing performance of studen
 ## Introduction
 This is a mandatory group project  of the courses “FS19-6,781,1.00 Skills: Programming: Introduction Level“ and “Advanced” supervised by Dr. Mario Silic in the spring semester, 2019, at the University of St. Gallen. The project was done in a group of five people: Maï Billharz, Lea Buffenoir, Julia Hartweg, Muriel Strasser and Yi Zheng. 
 
-## General Content
+## General-Content
 This is a regression model using a downloaded dataset from kaggle (https://www.kaggle.com/spscientist/students-performance-in-exams) related to students performance in exams. First, we created simple scatter plots comparing two pieces of data at a time. Second, we performaned a simple linear regression analysis with a training and a test set. Third, we performed a multiple regression using selected data. The reason for only using selected data is, that using more or different data tended to decrease model quality. Last, we created a prediction tool based on a different multiple linear regression.
 
 ## Repository
