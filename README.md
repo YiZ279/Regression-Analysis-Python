@@ -23,7 +23,7 @@ The file "Prediction Tool Output - Screenshots.docx" shows the output of the pre
 
 ## Installations 
 To do our analysis we had to install : 
--Python 3.7.3
--Jupiter
--Packages: numpy, pandas, matplotlib.pyplot, pylab 
--Dataset from kaggle (https://www.kaggle.com/spscientist/students-performance-in-exams) 
+* Python 3.7.3
+* Jupiter
+* Packages: numpy, pandas, matplotlib.pyplot, pylab 
+* Dataset from kaggle (https://www.kaggle.com/spscientist/students-performance-in-exams) 
