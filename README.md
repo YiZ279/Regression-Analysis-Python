@@ -7,7 +7,7 @@ A regression analysis of the different factors influencing performance of studen
 * [Introduction](#Introduction)
 * [Repository](#Repository)
 * [Installations](#Installations)
-* [SetUp](#SetUp)
+* [Set Up](#Set Up)
   
 ## Introduction
 This is a mandatory group project  of the courses “FS19-6,781,1.00 Skills: Programming: Introduction Level“ and “Advanced” supervised by Dr. Mario Silic in the spring semester, 2019, at the University of St. Gallen. The project was done in a group of five people: Maï Billharz, Lea Buffenoir, Julia Hartweg, Muriel Strasser and Yi Zheng. 
