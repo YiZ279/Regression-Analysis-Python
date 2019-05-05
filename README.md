@@ -21,10 +21,13 @@ The file "StudentsPerformance.csv" is a dataset downloaded from kaggle (https://
 The file "Prediction Tool Output - Screenshots.docx" shows the output of the prediction tool, which pop ups in a new window. It predicts the math score using user input.
 
 ## Installations 
-To do our analysis we had to install : 
+To do our analysis we use these programs: 
 * Python 3.7.3
+* Anaconda 3
 * Jupiter
-* Packages: numpy, pandas, matplotlib.pyplot, pylab 
+
+To run our code you will need these packages and datasets: 
+* Packages: numpy, pandas, matplotlib.pyplot, pylab, sklearn, statsmodels.api, tkinter 
 * Dataset from kaggle (https://www.kaggle.com/spscientist/students-performance-in-exams) 
 
 ## Set Up 
